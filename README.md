@@ -4,7 +4,7 @@ A simple app for testing data generation.
 
 # Requirements
 
-Install docker
+Install docker: https://store.docker.com/search?type=edition&offering=community
 
 # Usage
 
