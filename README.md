@@ -1,24 +1,15 @@
-# README
+# Mini-Mingle
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple app for testing data generation.
 
-Things you may want to cover:
+# Requirements
 
-* Ruby version
+Install docker
 
-* System dependencies
+# Usage
 
-* Configuration
+docker-compose up -d
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+http://locahost:3000/cards
+http://locahost:3000/projects
+http://locahost:3000/users
