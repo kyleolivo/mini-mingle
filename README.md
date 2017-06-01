@@ -10,6 +10,10 @@ Install docker: https://store.docker.com/search?type=edition&offering=community
 
 docker-compose up -d
 
+docker-compose run web rails db:create
+
+docker-compose run web rails db:migrate
+
 http://locahost:3000/cards
 
 http://locahost:3000/projects
